@@ -1,0 +1,28 @@
+   .gallery iMG{
+    width: 100%;
+   }
+   h4{
+      color:blue;
+      font-style:normal; 
+   }
+   #menu{
+      width: 100%;
+      height: 40px;
+      background-color: blueviolet;
+      padding: 12px;
+   }
+
+   #menu{
+      color:aqua;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+      font-size-adjust: 18px;
+      text-decoration: rgb(121, 76, 121);
+      font-weight: 800;
+
+      padding-left: 20px;
+      padding-right: 20px;
+   }
+
+   #menu a:hover{
+      color:aliceblue;
+   }
